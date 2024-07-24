@@ -2,7 +2,8 @@
 ## Portfolio:-
 My name is **Diwanshu**
 
-![IMG_20240718_115344](https://github.com/user-attachments/assets/3bbab836-b0db-4bd8-bfe3-c47837f03e89)
+![Uploading IMG_20240724_215236.jpg…]()
+
 
 | Date | Resource Person| Description|
 | ----------- | ----------- |--------|
