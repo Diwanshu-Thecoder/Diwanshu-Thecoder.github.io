@@ -1,8 +1,9 @@
 # Diwanshu-Thecoder.github.io
 ## Portfolio:-
-My name is **Diwanshu**
+My name is **Diwanshu Singla**
 
-![Uploading IMG_20240724_215236.jpg…]()
+![IMG_20240724_215236](https://github.com/user-attachments/assets/aa8b9a54-52c8-4ba9-ac7b-062fe886bb83)
+
 
 [My Achievements]
 
