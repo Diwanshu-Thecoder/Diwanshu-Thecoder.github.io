@@ -7,6 +7,8 @@ My name is **Diwanshu Singla**
 
 [My Achievements]
 
+Class 10
+
 | Subjects | Marks |
 |---|---|
 | English Core | 94 |
@@ -15,4 +17,17 @@ My name is **Diwanshu Singla**
 | Social Sciences | 90 |
 | Punjabi | 93 |
 
-[Click Here](https://google.com) 
+Class 12
+
+| Subjects | Marks |
+| --- | ---|
+| English Core | 77 |
+| Physics | 89 |
+| Chemistry | 82 |
+| Mathematics | 83 |
+| Music | 90 |
+
+
+
+
+
