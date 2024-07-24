@@ -9,13 +9,9 @@ My name is **Diwanshu**
 | Subjects | Marks |
 |---|---|
 | English Core | 94 |
-| ----------- | ----------- |
 | Science | 97 |
-| ----------- | ----------- |
 | Mathematics | 94 |
-|------------ | ----------- |
 | Social Sciences | 90 |
-| ----------- | ----------- |
 | Punjabi | 93 |
 
 [Click Here](https://google.com) 
