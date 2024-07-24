@@ -8,4 +8,4 @@ My name is **Diwanshu**
 | ----------- | ----------- |--------|
 | 15/07/2024| Dr. Pyare Lal Garg|Dr.Garg has told us valuable things|
 
-[Click Here](www.google.com) 
+[Click Here](https://google.com) 
